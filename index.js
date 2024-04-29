@@ -1,4 +1,4 @@
-var countdown = new Date('9 august 2023 00:00:00').getTime();
+var countdown = new Date('9 august 2024 00:00:00').getTime();
 
 function newyear() {
   var now = new Date().getTime();
